@@ -1,0 +1,22 @@
+body {
+    /* background-color: rgba(0, 255, 255, 0.774); */
+    background-color:bisque;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    color:rgb(84, 94, 94);
+}
+
+h4 {
+    color: rgb(104, 119, 119);
+}
+
+span {
+    border:2px solid tomato;
+    border-style:outset;
+    background-color: rgb(252, 129, 107);
+    color:rgba(133, 51, 36, 0.774);
+    font:verdana;
+}
